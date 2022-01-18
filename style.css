@@ -1,0 +1,33 @@
+body
+{
+ background-image: url("BG.jpg");
+}
+h1
+{
+ font-weight: bolder;
+ color: antiquewhite;
+}
+h4
+{
+ font-weight: bold;
+ color: antiquewhite;
+}
+.name
+{
+ background-color: antiquewhite;
+ color:black;
+ width: 15%;
+ border-radius: 10%;
+ font-size: 20px;
+}
+#camera,#result
+{
+ border: 2px solid cornsilk;
+ width: 350px;
+ height: 300px;
+}
+label,p
+{
+    font-weight:bold ;
+    color: antiquewhite;
+}
